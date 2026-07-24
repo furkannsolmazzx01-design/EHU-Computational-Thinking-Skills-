@@ -22,4 +22,7 @@ To ensure transparency and reproducibility, the materials utilized for this stud
 [🔗 Click Here to Access the Google Drive Repository]([)](https://drive.google.com/drive/folders/1TVzBQw7b2RzDZ_c3vCu7Lk3scQIoWPPs?usp=sharing)
 
 ---
+---
 *Developed by Furkan Solmaz*
+
+📄 **License:** This project is freely available under the **MIT License**.
