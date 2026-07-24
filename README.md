@@ -19,7 +19,6 @@ To ensure transparency and reproducibility, the materials utilized for this stud
 * **Python Scripts & Exploratory Analysis:** The complete, step-by-step codebase is hosted in this repository within the `EDA_Full_Analysis.ipynb` notebook.
 * **Datasets & High-Resolution Visualizations:** The raw Excel datasets and high-resolution graphical outputs (.png) are openly accessible via Google Drive:
 
-[🔗 Click Here to Access the Google Drive Repository]([
-](https://drive.google.com/drive/folders/1TVzBQw7b2RzDZ_c3vCu7Lk3scQIoWPPs?usp=sharing)
---- 
+[🔗 Click Here to Access the Google Drive Repository] [
+](https://drive.google.com/drive/folders/1TVzBQw7b2RzDZ_c3vCu7Lk3scQIoWPPs?usp=sharing)--- 
 *Developed by Furkan Solmaz*
